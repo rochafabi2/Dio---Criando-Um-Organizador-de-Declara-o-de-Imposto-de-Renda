@@ -7,6 +7,7 @@ Para essa tarefa, foi criada um planilha com três abas onde dados são solicita
 
 ##  Funcionalidades
 Do lado esquerdo das 03 abas foi criado um menu interativo onde o usuário pode navegar por diferentes abas e os botões ficam acesos de acordo com a aba que o usuário está:
+
 <img width="176" height="394" alt="image" src="https://github.com/user-attachments/assets/b85e7334-c5e7-4807-aa69-06f4211a4b86" />
 
 Na primeira aba, chamada TITULAR, são solicitados os seguintes dados que devem ser preenchidos:
@@ -25,6 +26,4 @@ Foi utilizada também uma tabela de apoio na aba Tabelas, onde foram cadastradas
 ##  Como utilizar:
 
 Abrir a Planilha anexa [Criando Um Organizador de Declaração de Imposto de Renda.xlsx](https://github.com/user-attachments/files/32712927/Criando.Um.Organizador.de.Declaracao.de.Imposto.de.Renda.xlsx)
-Execute o arquivo no Microsoft Excel ou Google Planilhas. Acesse a aba TITULAR e informe os dados cadastrais básicos. Acesse a aba INFORMES, selecione os bancos utilizados, informe os saldos e nomeie os arquivos PDF correspondentes salvos em sua pasta local. Acesse a aba NOTAS e liste as receitas mensalmente com data e categoria. Observação: os dados da planiilha são fictícios.
-
-
+Execute o arquivo no Microsoft Excel ou Google Planilhas. Acesse a aba TITULAR e informe os dados cadastrais básicos. Acesse a aba INFORMES, selecione os bancos utilizados, informe os saldos e nomeie os arquivos PDF correspondentes salvos em sua pasta local. Acesse a aba NOTAS e liste as receitas mensalmente com data e categoria. Observação: os dados da planilha são fictícios.
