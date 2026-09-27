@@ -8,6 +8,7 @@ Para essa tarefa, foi criada um planilha com três abas onde dados são solicita
 ##  Funcionalidades
 Do lado esquerdo das 03 abas foi criado um menu interativo onde o usuário pode navegar por diferentes abas e os botões ficam acesos de acordo com a aba que o usuário está:
 <img width="176" height="394" alt="image" src="https://github.com/user-attachments/assets/b85e7334-c5e7-4807-aa69-06f4211a4b86" />
+
 Na primeira aba, chamada TITULAR, são solicitados os seguintes dados que devem ser preenchidos:
 <img width="313" height="309" alt="image" src="https://github.com/user-attachments/assets/b86f06dc-f8d3-4d00-9e7b-ee679db04851" />
 
