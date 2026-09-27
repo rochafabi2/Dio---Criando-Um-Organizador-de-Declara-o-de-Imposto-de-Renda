@@ -12,7 +12,7 @@ Do lado esquerdo das 03 abas foi criado um menu interativo onde o usuário pode 
 Na primeira aba, chamada TITULAR, são solicitados os seguintes dados que devem ser preenchidos:
 <img width="313" height="309" alt="image" src="https://github.com/user-attachments/assets/b86f06dc-f8d3-4d00-9e7b-ee679db04851" />
 
-Essa aba também contém um botão escrito "Próximo", que navegará para a próxima aba, chamada INNFORMES, onde é solicitado os dados bancários e o valor que a pessoa tem em cada conta bancária.
+Essa aba também contém um botão escrito "Próximo", que navegará para a próxima aba, chamada INNFORMES, onde são solicitados os dados bancários e o valor que a pessoa tem em cada conta bancária.
 <img width="469" height="304" alt="image" src="https://github.com/user-attachments/assets/4be12f92-a535-4fed-9af6-8310e9af0b4b" />
 
 Essa aba também contém dois botões, um para voltar para a aba anterior (Titular) e outro para ir para a próxima aba, chamada NOTAS. Nessa aba são cadastrados os dados das notas ou extrato de holerites.
